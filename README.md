@@ -35,7 +35,7 @@ Following is a list of the location of the issues that were raised by the review
 		* **Evidence 01: ML from scratch: final/M2_ML/README.md**
 		* **Evidence 02: ML from a framework: final/M2_ML/README.md**
 * *Momento de Retroalimentación - Reto: Limpieza del Conjunto de Datos*
-	* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro">retro</a>*
+	* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Limpieza%20de%20Datos">Limpieza de Datos</a>*
 		* **Archivo README: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/README.md">retro/Limpieza de Datos/README.md</a>**
  		* **Código en Jupyter Notebook de Limpieza de Datos: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/clean_training_data.ipynb">retro/Limpieza de Datos/clean_training_data.ipynb</a>**
 		* **Archivo CSV de la Base de Datos del Titanic (Kaggle): <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/train.csv">retro/Limpieza de Datos/train.csv</a>**
