@@ -1,5 +1,13 @@
-# Demo repo for the TC3006 course
-This repository is a demo of what is expected to deliver on each repository requested for the TC3006 course at Tecnológico de Monterrey. For this demo, we consider the *implementation portfolio* deliverable, which spans across two modules (Statistics and ML) and two subcompetencies (SMA0101A and SMA0401A). Also, we assume that the repository is being provided at the end of first block, which means that the students already got some feedback from the professors. 
+# Curso TC3006 - Inteligencia Artificial Avanzada para la Ciencia de Datos
+
+Durante las diversas etapas de desarrollo de este proyecto, que abarcan desde la identificación de la problemática hasta el análisis y preparación de los requisitos y los datos correspondientes, así como el establecimiento de algoritmos de Aprendizaje Automático, su codificación, revisión e implementación, se persigue alcanzar una resolución satisfactoria, precisa y coherente basada en los recursos proporcionados. Esto se logrará mediante el uso de modelos matemáticos y estadísticos válidos que respalden y otorguen mayor veracidad a los datos generados por nuestro modelo.
+
+Adicionalmente, se tiene como objetivo la implementación de herramientas y bibliotecas, como Pandas, Matplotlib y otras, para respaldar la visualización de los resultados obtenidos, teniendo en cuenta las tesis desarrolladas de manera teórica, asegurando así su coherencia y viabilidad.
+
+En las etapas finales del primer proyecto, se anticipa que el modelo de Machine Learning brindará resultados cercanos a los datos reales, habiendo aplicado los métodos más óptimos para su implementación.
+
+Carpetas en este repositorio:
+*Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos: Dentro de esta carpeta encontrarán el primer entregable de nuestro equipo para el reto del Titanic. Tenemos un Jupyter Notebook donde describimos y justificamos nuestro proceso de limpiar los datos así como los datos que nos quedaron después del proceso de limpieza.
 
 ## Structure of this repository
 The root folder of this repository contains the following files and folders: 
