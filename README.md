@@ -37,9 +37,9 @@ Following is a list of the location of the issues that were raised by the review
 * *Momento de Retroalimentación - Reto: Limpieza del Conjunto de Datos*
 	* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro">retro</a>*
 		* **Archivo README: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/README.md">retro/Limpieza de Datos/README.md</a>**
- 		* **Código en Jupyter Notebook de Limpieza de Datos: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/clean_training_data.ipynb">retro/Limpieza de Datos/clean_training_data.ipynb</a>**
-		* **Archivo CSV de la Base de Datos del Titanic (Kaggle): <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/train.csv">retro/Limpieza de Datos/train.csv</a>**
-		* **Output CSV de la Base de Datos del Titanic limpia: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/train_clean.csv">retro/Limpieza de Datos/train_clean.csv</a>**
+ 		* **Código en Jupyter Notebook de Limpieza de Datos: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/clean_training_data.ipynb">retro/Limpieza de Datos/clean_training_data.ipynb</a>**
+		* **Archivo CSV de la Base de Datos del Titanic (Kaggle): <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/clean_training_data.ipynb">retro/Limpieza de Datos/train.csv</a>**
+		* **Output CSV de la Base de Datos del Titanic limpia: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/clean_training_data.ipynb">retro/Limpieza de Datos/train_clean.csv</a>**
 
 
 See you!
