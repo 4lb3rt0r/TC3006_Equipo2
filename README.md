@@ -1,5 +1,7 @@
 # Curso TC3006 - Inteligencia Artificial Avanzada para la Ciencia de Datos
 
+## Reto Periodo 1: Titanic - Machine Learning para el Desastre
+
 Durante las diversas etapas de desarrollo de este proyecto, que abarcan desde la identificación de la problemática hasta el análisis y preparación de los requisitos y los datos correspondientes, así como el establecimiento de algoritmos de Aprendizaje Automático, su codificación, revisión e implementación, se persigue alcanzar una resolución satisfactoria, precisa y coherente basada en los recursos proporcionados. Esto se logrará mediante el uso de modelos matemáticos y estadísticos válidos que respalden y otorguen mayor veracidad a los datos generados por nuestro modelo.
 
 Adicionalmente, se tiene como objetivo la implementación de herramientas y bibliotecas, como Pandas, Matplotlib y otras, para respaldar la visualización de los resultados obtenidos, teniendo en cuenta las tesis desarrolladas de manera teórica, asegurando así su coherencia y viabilidad.
