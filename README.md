@@ -7,16 +7,8 @@ Adicionalmente, se tiene como objetivo la implementación de herramientas y bibl
 En las etapas finales del primer proyecto, se anticipa que el modelo de Machine Learning brindará resultados cercanos a los datos reales, habiendo aplicado los métodos más óptimos para su implementación.
 
 Carpetas en este repositorio:
+
 *Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos: Dentro de esta carpeta encontrarán el primer entregable de nuestro equipo para el reto del Titanic. Tenemos un Jupyter Notebook donde describimos y justificamos nuestro proceso de limpiar los datos así como los datos que nos quedaron después del proceso de limpieza.
-
-## Structure of this repository
-The root folder of this repository contains the following files and folders: 
-
-* **Files**
-  * README.md: This file  
-* **Folders**
-  * final: Folder with the information about the final deliverables, which include the changes that the reviewers asked for
-  * retro: Folder with the information about the draft version of each deliverable, which are provided for requesting feedback
 
 ## Files for revision
 Following is a list of the files that must be checked for grading each subcompetency: 
