@@ -1,5 +1,17 @@
 # Curso TC3006 - Inteligencia Artificial Avanzada para la Ciencia de Datos
 
+## Integrantes del equipo 
+* Luis Ángel Guzmán Iribe - A01741757
+* Julian Lawrence Gil Soares - A00832272
+* Alberto H Orozco Ramos - A00831719
+
+## Profesores
+* Ivan Mauricio Amaya Contreras
+* Blanca Rosa Ruiz Hernandez
+* Antonio Carlos Bento
+* Frumencio Olivas Alvarez
+* Hugo Terashima Marín
+
 ## Reto Periodo 1: Titanic - Machine Learning para el Desastre
 
 Durante las diversas etapas de desarrollo de este proyecto, que abarcan desde la identificación de la problemática hasta el análisis y preparación de los requisitos y los datos correspondientes, así como el establecimiento de algoritmos de Machine Learning, su codificación, revisión e implementación, se persigue alcanzar una resolución satisfactoria, precisa y coherente basada en los recursos proporcionados. Esto se logrará mediante el uso de modelos matemáticos y estadísticos válidos que respalden y otorguen mayor veracidad a los datos generados por nuestro modelo.
