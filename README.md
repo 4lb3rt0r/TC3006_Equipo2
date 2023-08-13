@@ -23,7 +23,7 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 Carpetas en este repositorio:
 
 * Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos: Dentro de esta carpeta encontrarán el primer entregable de nuestro equipo para el reto del Titanic. Tenemos un Jupyter Notebook donde describimos y justificamos nuestro proceso de limpiar los datos así como los datos que nos quedaron después del proceso de limpieza.
-* <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Limpieza%20de%20Datos">Limpieza de Datos
+* * <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Limpieza%20de%20Datos">Limpieza de Datos
 
 ## Files for revision
 Following is a list of the files that must be checked for grading each subcompetency: 
