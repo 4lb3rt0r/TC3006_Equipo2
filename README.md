@@ -30,18 +30,6 @@ Following is a list of the files that must be checked for grading each subcompet
 
 * *Module 1: Statistics*
 	* *SMA0101A*
-		* **Evidence 01: Modeling** Please review file **final/M1_Statistics/Ev_01/dummyFile.txt**
-* *Module 2: Machine Learning*
-	* *SMA0401A*
-		* **Evidence 01: ML from scratch** Please review file **final/M2_ML/Ev_01/dummyFile.txt**
-		* **Evidence 02: ML from a framework** Please review file **final/M2_ML/Ev_02/dummyFolder/dummyFile.txt**
-
-
-## Requested changes and replies
-Following is a list of the location of the issues that were raised by the reviewer during the feedback phase. Please refer to them for more details.
-
-* *Module 1: Statistics*
-	* *SMA0101A*
 		* **Evidence 01: Modeling: final/M1_Statistics/README.md**
 * *Module 2: Machine Learning*
 	* *SMA0401A*
@@ -55,4 +43,4 @@ Following is a list of the location of the issues that were raised by the review
 		* **Output CSV de la Base de Datos del Titanic limpia: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/train_clean.csv">retro/Limpieza de Datos/train_clean.csv</a>**
 
 
-See you!
+¡Gracias!
