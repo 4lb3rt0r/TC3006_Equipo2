@@ -42,5 +42,7 @@ Following is a list of the files that must be checked for grading each subcompet
 		* **Archivo CSV de la Base de Datos del Titanic (Kaggle): <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/train.csv">retro/Limpieza de Datos/train.csv</a>**
 		* **Output CSV de la Base de Datos del Titanic limpia: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/train_clean.csv">retro/Limpieza de Datos/train_clean.csv</a>**
 
+* *Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo*
+
 
 ¡Gracias!
