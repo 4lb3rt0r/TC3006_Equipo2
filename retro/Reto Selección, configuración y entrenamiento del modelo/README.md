@@ -8,10 +8,10 @@ En este directorio puede encontrar los documentos necesarios para el modelo que 
 
     1.1 **Herramientas utilizadas:**
 
-   * **Redes Neuronales** *
-   * **Decision Tree** *
-   * **Random Forest** *
-   * **SVM** *
+   * **Redes Neuronales** 
+   * **Decision Tree** 
+   * **Random Forest** 
+   * **SVM** 
     
     1.3. **Oportunidades de mejora / Trabajo futuro**
 
