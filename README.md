@@ -25,16 +25,8 @@ Carpetas en este repositorio:
 * Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos: Dentro de esta carpeta encontrarán el primer entregable de nuestro equipo para el reto del Titanic. Tenemos un Jupyter Notebook donde describimos y justificamos nuestro proceso de limpiar los datos así como los datos que nos quedaron después del proceso de limpieza.
   * <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Limpieza%20de%20Datos">Limpieza de Datos
 
-## Files for revision
-Following is a list of the files that must be checked for grading each subcompetency: 
-
-* *Module 1: Statistics*
-	* *SMA0101A*
-		* **Evidence 01: Modeling: final/M1_Statistics/README.md**
-* *Module 2: Machine Learning*
-	* *SMA0401A*
-		* **Evidence 01: ML from scratch: final/M2_ML/README.md**
-		* **Evidence 02: ML from a framework: final/M2_ML/README.md**
+## Archivos para revisión
+A continuación se encuentra una lista de archivos que deben ser revisados para evaluar cada subcompetencia:
 * *Momento de Retroalimentación - Reto: Limpieza del Conjunto de Datos*
 	* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Limpieza%20de%20Datos">Limpieza de Datos</a>*
 		* **Archivo README: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/README.md">retro/Limpieza de Datos/README.md</a>**
