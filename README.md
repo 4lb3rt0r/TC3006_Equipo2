@@ -36,6 +36,6 @@ A continuación se encuentra una lista de archivos que deben ser revisados para 
 
 * *Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo*
 	* ** Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Reto%20Selecci%C3%B3n%2C%20configuraci%C3%B3n%20y%20entrenamiento%20del%20modelo">
-
+		* **Archivo README: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Reto%20Selecci%C3%B3n%2C%20configuraci%C3%B3n%20y%20entrenamiento%20del%20modelo/README.md">retro/Limpieza de Datos/README.md</a>**
 
 ¡Gracias!
