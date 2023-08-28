@@ -35,7 +35,7 @@ A continuación se encuentra una lista de archivos que deben ser revisados para 
 		* **Output CSV de la Base de Datos del Titanic limpia: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/train_clean.csv">retro/Limpieza de Datos/train_clean.csv</a>**
 
 * *Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo*
-	* ** Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Reto%20Selecci%C3%B3n%2C%20configuraci%C3%B3n%20y%20entrenamiento%20del%20modelo">
+	* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Reto%20Selecci%C3%B3n%2C%20configuraci%C3%B3n%20y%20entrenamiento%20del%20modelo">Selección, configuración y entrenamiento del modelo</a>*
 		* **Archivo README: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Reto%20Selecci%C3%B3n%2C%20configuraci%C3%B3n%20y%20entrenamiento%20del%20modelo/README.md">retro/Limpieza de Datos/README.md</a>**
 
 ¡Gracias!
