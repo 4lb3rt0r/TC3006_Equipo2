@@ -13,7 +13,7 @@ En este directorio puede encontrar los documentos necesarios para el modelo que 
    * **Random Forest** 
    * **SVM** 
     
-    1.3. **Oportunidades de mejora / Trabajo futuro**
+    1.2 **Oportunidades de mejora / Trabajo futuro**
 
     Trabajo pendiente y areas en la que es posible mejorar este análisis.
 
