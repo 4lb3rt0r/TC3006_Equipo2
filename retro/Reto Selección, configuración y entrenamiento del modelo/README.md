@@ -1,4 +1,4 @@
-#Selección, configuración y entrenamiento del modelo
+# Selección, configuración y entrenamiento del modelo
 
 En este directorio puede encontrar los documentos necesarios para el modelo que implementaremos para la resolucion del reto. Cuenta con los siguientes archivos:
 * **train_clean.csv:** * Datos de entrenamiento procesados
