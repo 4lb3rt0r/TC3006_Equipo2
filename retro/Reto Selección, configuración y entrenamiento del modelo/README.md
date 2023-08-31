@@ -15,8 +15,11 @@ En este directorio puede encontrar los documentos necesarios para el modelo que 
    * **Random Forest**: Random Forest (o bosques aleatorios) es un algoritmo que consiste en el uso de n arboles de desición con la finalidad de reducir el ruido presente en un solo arbol, evitar el overfitting, y tomar en cuenta una mayor variabilidad entre los datos; ofreciendo una mayor calidad de los datos a costa de un mayor precio computacional, pero esto no se trata de un problema para fines de este reto dado que trabajamos con un conjunto de datos relativamente pequeño (menor a 1000 filas de datos).
    
    * **SVM**: Support Vector Clasification es uno de los algoritmos de clasificación más simples, pero que puede llegar a tener muy buenos resultados. La manera en la que funciona es toma un plano donde se grafica 2 variables, en nuestro caso si el pasajero sobrevivió o murió, luego genera una línea para clasificar los variables. En nuestro caso se toman en cuenta más de dos features para hacer la clasificación, así que se grafica en un plano de múltiples dimensiones y el hiperplano es un plano que divide los puntos entre las dos clases que queremos encontrar.
-    
-    1.2 **Oportunidades de mejora / Trabajo futuro**
+  
+    1.2 **Modelo Seleccionado**
+        Después de analizar los resultados que encontramos de los 4 modelos implementados, decidimos utilizar el modelo de redes neuronales, ya que tuvo las mejores métricas en nuestro análisis y porque creemos que aún se pueden mejorar esas métricas más.
+   
+    1.3 **Oportunidades de mejora / Trabajo futuro**
 
     Trabajo pendiente y areas en la que es posible mejorar este análisis.
 
