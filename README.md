@@ -23,7 +23,14 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 Carpetas en este repositorio:
 
 * Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos: Dentro de esta carpeta encontrarán el primer entregable de nuestro equipo para el reto del Titanic. Tenemos un Jupyter Notebook donde describimos y justificamos nuestro proceso de limpiar los datos así como los datos que nos quedaron después del proceso de limpieza.
-  * <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Limpieza%20de%20Datos">Limpieza de Datos
+  * <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Limpieza%20de%20Datos">Limpieza de Datos</a>
+ 
+    
+* Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo : Dentro de esta carpeta se encuentra nuestro segundo avance del reto del Titanic. Tenemos un Jupyter Notebook donde implementamos varios modelos de regresión con la meta de encontrar el modelo que utilizaremos para la solución del reto.
+  * <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Reto%20Selecci%C3%B3n%2C%20configuraci%C3%B3n%20y%20entrenamiento%20del%20modelo">Selección, configuración y entrenamiento del modelo</a>
+
+* Momento de Retroalimentación: Reto Evaluación y Refinamiento de modelo: Dentro de esta carpeta se encuentra nuestro tercer avance del reto del Titanic. Se puede encontrar un Jupyter Notebook donde implementamos un algoritmo grid search con fin el fin de encontrar los parámetros óptimos para nuestro modelo predictivo.
+  * <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Reto%20Evaluaci%C3%B3n%20y%20Refinamiento%20de%20modelo">Selección, configuración y entrenamiento del modelo</a>
 
 ## Archivos para revisión
 A continuación se encuentra una lista de archivos que deben ser revisados para evaluar cada subcompetencia:
