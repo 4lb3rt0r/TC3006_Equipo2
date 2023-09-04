@@ -13,6 +13,6 @@ En este directorio puede encontrar los documentos necesarios para el refinamient
    * **Datos Utilizados:**: El <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Reto%20Evaluaci%C3%B3n%20y%20Refinamiento%20de%20modelo/train_clean.csv">dataset</a> que utilizamos es una base de datos donde podemos observar algunas características de los pasajeros del Titanic, tenemos 7 features que podemos utilizar y una columna para hacer pruebas.
   
    
-    1.3 **Oportunidades de mejora / Trabajo futuro**
+    1.2 **Oportunidades de mejora / Trabajo futuro**
 
     Trabajo pendiente y areas en la que es posible mejorar este análisis.
