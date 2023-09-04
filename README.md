@@ -51,6 +51,6 @@ A continuación se encuentra una lista de archivos que deben ser revisados para 
 	* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Reto%20Evaluaci%C3%B3n%20y%20Refinamiento%20de%20modelo">Evaluación y Refinamiento de modelo</a>*
 		* **Archivo README: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Reto%20Evaluaci%C3%B3n%20y%20Refinamiento%20de%20modelo/README.md">Archivo README.md</a>**
 		* **Base de Datos del Titanic limpia: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Reto%20Evaluaci%C3%B3n%20y%20Refinamiento%20de%20modelo/train_clean.csv">retro/ Reto Evaluación y Refinamiento de modelo/train_clean.csv</a>**
-		* **Código en Jupyter Notebook del refinamiento de modelo : <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Reto%20Selecci%C3%B3n%2C%20configuraci%C3%B3n%20y%20entrenamiento%20del%20modelo/Configuracion_Modelos.ipynb">retro/Reto Evaluación y Refinamiento de modelo/train_clean.csv</a>**
+		* **Código en Jupyter Notebook del refinamiento de modelo : <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Reto%20Evaluaci%C3%B3n%20y%20Refinamiento%20de%20modelo/Reto_Redes_Neuronales_Refinado.ipynb">retro/Reto Evaluación y Refinamiento de modelo/train_clean.csv</a>**
 
 ¡Gracias!
