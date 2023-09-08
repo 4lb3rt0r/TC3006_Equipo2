@@ -5,7 +5,7 @@ import Footer from './components/Footer.vue'
 </script>
 
 <template>
-  <Navbar />
+  <!-- <Navbar /> -->
   <div class="nav_height h-screen w-full p-10">
     <router-view></router-view>
     <!-- <HelloWorld msg="Vite + Vue + Tailwind + Pinia + Router" /> -->

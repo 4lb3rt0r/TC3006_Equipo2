@@ -4,9 +4,9 @@
 @tailwind utilities;
 
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
   color: #000000;
-  background-color: #E4E4E4;
+  background-color: #F8F9FA;
 }
 /* 
 @media (prefers-color-scheme: light) {
