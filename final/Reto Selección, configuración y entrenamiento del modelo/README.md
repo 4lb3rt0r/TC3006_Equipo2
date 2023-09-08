@@ -12,7 +12,7 @@ Este dataset se limpió con anterioridad, tratando valores nulos, convirtiendo v
 
 ## Análisis previo a la selección
 
-### Herramientas utilizadas
+### Modelos implementados
 
 #### Redes Neuronales
 Las redes neuronales son modelos computacionales inspirados en el comportamiento del cerebro biológico. Consisten en valores de entrada, estos valores pasan por neuronas, a las cuales se les asignan pesos para cada variable. La suma ponderada se procesa con una función matemática, llamada función de activación, para producir la salida final de la neurona.Este proceso puede repetirse en múltiples capas, potencialmente obteniendo mejores resultados que un enfoque de una sola capa y neurona. Sin embargo, contar con suficientes datos de entrada es crucial para predicciones o clasificaciones precisas.
@@ -30,4 +30,12 @@ Support Vector Clasification es uno de los algoritmos de clasificación más sim
 El [dataset](https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Reto%20Selecci%C3%B3n%2C%20configuraci%C3%B3n%20y%20entrenamiento%20del%20modelo/train_clean.csv) que utilizamos es una base de datos donde podemos observar algunas características de los pasajeros del Titanic, tenemos 7 features que podemos utilizar y una columna para hacer pruebas.
   
 ## Modelo Seleccionado
-Después de analizar los resultados que encontramos de los 4 modelos implementados, decidimos utilizar el modelo de redes neuronales, ya que tuvo las mejores métricas en nuestro análisis y porque creemos que aún se pueden mejorar esas métricas más.
+Después de analizar los resultados que encontramos de los 4 modelos implementados, decidimos utilizar el modelo de **redes neuronales**, ya que tuvo las mejores métricas en nuestro análisis y porque creemos que aún se pueden mejorar esas métricas más.
+
+## Cambios implementados
+* Correcciones en README:
+    * Inclusión del modelo de ML seleccionado.
+    * Inclusión de la descripción del dataset.
+* Clarificación del tipo de problema que se trabaja (Clasificación)
+* Reorganización de pruebas planeadas en tablas en la introducción. A las pruebas se les asocia un número, y en el apartado de cada modelo se presentan los resultados de dicha prueba. En las tablas se incluyen los hiper-párametros con los que se genera el modelo en cada prueba.
+* Se incluyó una tabla de resultados sobre el conjunto de entrenamiento con la finalidad de demostrar que no existe overfitting sobre los datos del conjunto de prueba.
