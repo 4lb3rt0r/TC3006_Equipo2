@@ -57,11 +57,11 @@ A continuación se encuentra una lista de archivos que deben ser revisados para 
 A continuación se muestra una lista de los archivos en sus versiones finales que se deben revisar para calificar cada subcompetencia:
 
 * *Momento de Retroalimentación - Reto: Limpieza del Conjunto de Datos*
-	* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/retro/Limpieza%20de%20Datos">Limpieza de Datos</a>*
-		* **Archivo README: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/README.md">retro/Limpieza de Datos/README.md</a>**
-		* **Código en Jupyter Notebook de Limpieza de Datos: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/clean_training_data.ipynb">retro/Limpieza de Datos/clean_training_data.ipynb</a>**
-		* **Archivo CSV de la Base de Datos del Titanic (Kaggle): <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/train.csv">retro/Limpieza de Datos/train.csv</a>**
-		* **Output CSV de la Base de Datos del Titanic limpia: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/retro/Limpieza%20de%20Datos/train_clean.csv">retro/Limpieza de Datos/train_clean.csv</a>**
+	* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/final/Limpieza%20de%20Datos">Limpieza de Datos</a>*
+		* **Archivo README: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/final/Limpieza%20de%20Datos/README.md">final/Limpieza de Datos/README.md</a>**
+		* **Código en Jupyter Notebook de Limpieza de Datos: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/final/Limpieza%20de%20Datos/clean_training_data.ipynb">final/Limpieza de Datos/clean_training_data.ipynb</a>**
+		* **Archivo CSV de la Base de Datos del Titanic (Kaggle): <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/final/Limpieza%20de%20Datos/train.csv">final/Limpieza de Datos/train.csv</a>**
+		* **Output CSV de la Base de Datos del Titanic limpia: <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/blob/main/final/Limpieza%20de%20Datos/train_clean.csv">final/Limpieza de Datos/train_clean.csv</a>**
 
 * *Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo*
 	* *Carpeta <a href="https://github.com/4lb3rt0r/TC3006_Equipo2/tree/main/final/Reto%20Selecci%C3%B3n%2C%20configuraci%C3%B3n%20y%20entrenamiento%20del%20modelo">Selección, configuración y entrenamiento del modelo</a>*
