@@ -25,7 +25,7 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 * **[Evidencia 3. Solución reto - Equipo 2](/final/Evidencia%203.%20Solución%20reto%20-%20Equipo%202.pdf)**: Reporte final que engloba todo el trabajo realizado a lo largo del proyecto.
 
 * **[Limpieza de Datos](/final/Limpieza%20de%20Datos/)**: Dentro de esta carpeta encontrarán el primer entregable de nuestro equipo para el reto del Titanic. Tenemos un Jupyter Notebook donde describimos y justificamos nuestro proceso de limpiar los datos así como los datos que nos quedaron después del proceso de limpieza.
-	* **Archivo README: [retro/Limpieza de Datos/README.md](/final/Limpieza%20de%20Datos//README.md)**
+	* **Archivo README: [README.md](/final/Limpieza%20de%20Datos//README.md)**
 	* **Código en Jupyter Notebook de Limpieza de Datos**: [clean_training_data.ipynb](/final/Limpieza%20de%20Datos/clean_training_data.ipynb) 
 	* **Archivo CSV de la Base de Datos del Titanic (Kaggle)**: [train.csv](/final/Limpieza%20de%20Datos/train.csv)
 	* **Output CSV de la Base de Datos del Titanic limpia: [train_clean.csv](/final/Limpieza%20de%20Datos/train_clean.csv)**
