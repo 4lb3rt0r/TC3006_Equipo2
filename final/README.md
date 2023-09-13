@@ -12,4 +12,4 @@ Este directorio contiene las versiones finales de las diferentes etapas de soluc
 
 * **Reto Evaluación y Refinamiento de modelo**: Ultima etapa del reto. Se aplican metodologías para ajustar hiperparametros del modelo seleccionado buscando mejorar el rendimiento en comparación de la última entrega.
 
-* **Evidencia 3. Solución reto - Equipo 2.**: Reporte final que engloba todo el trabajo realizado a lo largo del proyecto.
+* **Evidencia 3. Solución reto - Equipo 2**: Reporte final que engloba todo el trabajo realizado a lo largo del proyecto.
