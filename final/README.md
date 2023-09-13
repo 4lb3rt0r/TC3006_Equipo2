@@ -1,4 +1,15 @@
-# Demo file for the folder with the final version of each deliverable
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Evidencia 3. Solución del Reto
 
-This folder contains the final files that must be graded for each deliverable. The folder is organized into subfolders, one for each deliverable.
+Este directorio contiene las versiones finales de las diferentes etapas de solución del reto.
+
+## Contenidos
+
+* **Interfaz**: Código empleado para el reto del módigo de hardware, en el que se corre el modelo de inteligencia artificial en un microcontrolador ESP32, y se despliega en una páfina web alojada en Firebase.
+
+* **Limpieza de Datos**: Primer entregable del reto. Corresponde a la limpieza del conjunto de datos para posteriores entregas.
+
+* **Reto Selección, configuración y entrenamiento del modelo**: Segunda etapa del reto. Se implementan diversos modelos de machine learning buscando compararlos para seleccionar el que muestre mejor rendimiento para someterlo a refinameinto posterior.
+
+* **Reto Evaluación y Refinamiento de modelo**: Ultima etapa del reto. Se aplican metodologías para ajustar hiperparametros del modelo seleccionado buscando mejorar el rendimiento en comparación de la última entrega.
+
+* **Evidencia 3. Solución reto - Equipo 2.**: Reporte final que engloba todo el trabajo realizado a lo largo del proyecto.
