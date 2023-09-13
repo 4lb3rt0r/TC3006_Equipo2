@@ -1,4 +1,4 @@
-# Curso TC3006 - Inteligencia Artificial Avanzada para la Ciencia de Datos
+# Curso TC3006 - Inteligencia Artificial Avanzada para la Ciencia de Datos - Equipo 2
 
 ## Integrantes del equipo 
 * Luis Ángel Guzmán Iribe - A01741757
