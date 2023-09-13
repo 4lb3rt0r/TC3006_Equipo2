@@ -26,9 +26,9 @@ En las etapas finales del primer proyecto, se anticipa que el modelo de Machine 
 
 * **[Limpieza de Datos](/final/Limpieza%20de%20Datos/)**: Dentro de esta carpeta encontrarán el primer entregable de nuestro equipo para el reto del Titanic. Tenemos un Jupyter Notebook donde describimos y justificamos nuestro proceso de limpiar los datos así como los datos que nos quedaron después del proceso de limpieza.
 	* **Archivo README: [retro/Limpieza de Datos/README.md](/final/Limpieza%20de%20Datos//README.md)**
-	* **Código en Jupyter Notebook de Limpieza de Datos**: [Limpieza de Datos/clean_training_data.ipynb](/final/Limpieza%20de%20Datos/clean_training_data.ipynb) 
-	* **Archivo CSV de la Base de Datos del Titanic (Kaggle)**: [Limpiieza de Datos/train.csv](/final/Limpieza%20de%20Datos/train.csv)
-	* **Output CSV de la Base de Datos del Titanic limpia: [Limpieza de Datos/train_clean.csv](/final/Limpieza%20de%20Datos/train_clean.csv)**
+	* **Código en Jupyter Notebook de Limpieza de Datos**: [clean_training_data.ipynb](/final/Limpieza%20de%20Datos/clean_training_data.ipynb) 
+	* **Archivo CSV de la Base de Datos del Titanic (Kaggle)**: [train.csv](/final/Limpieza%20de%20Datos/train.csv)
+	* **Output CSV de la Base de Datos del Titanic limpia: [train_clean.csv](/final/Limpieza%20de%20Datos/train_clean.csv)**
     
 * **[Selección, configuración y entrenamiento del modelo](/final/Reto%20Selección,%20configuración%20y%20entrenamiento%20del%20modelo/)**: Dentro de esta carpeta se encuentra el segundo entregable del reto del Titanic. Tenemos un Jupyter Notebook donde implementamos varios modelos de regresión con la meta de encontrar el modelo que utilizaremos para la solución del reto.
 	* **Archivo README: [README.md](/final/Reto%20Selección,%20configuración%20y%20entrenamiento%20del%20modelo/README.md)**
